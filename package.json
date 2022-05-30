@@ -1,0 +1,33 @@
+{
+  "name": "timesimplified",
+  "version": "1.0.0",
+  "description": "an npm package that return datetime in seconds, hours, days, week, month, years",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MuokaPWambua/timesimplified.git"
+  },
+  "keywords": [
+    "timesimplified",
+    "\"datetime",
+    "to",
+    "seconds\"",
+    "datetime",
+    "timesimplifiedjs",
+    "\"date",
+    "to",
+    "hours",
+    "weeks",
+    "months",
+    "minuets\""
+  ],
+  "author": "muoka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuokaPWambua/timesimplified/issues"
+  },
+  "homepage": "https://github.com/MuokaPWambua/timesimplified#readme"
+}
